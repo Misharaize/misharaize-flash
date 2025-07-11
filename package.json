@@ -1,0 +1,18 @@
+{
+  "name": "misharaize-flash-bot",
+  "version": "1.0.0",
+  "description": "Misharaize Flash WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pino": "^8.17.0",
+    "ytdl-core": "^4.11.4",
+    "openai": "^4.50.1"
+  }
+}
